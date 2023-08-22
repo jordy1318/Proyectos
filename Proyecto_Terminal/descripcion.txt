@@ -1,0 +1,6 @@
+Este es mi proyecto final de titulación.
+
+Es un grupo de tres redes neuronales que aprenden de un conjunto de 100 radiografias
+Del radio y la nula, que tiene como propósito el diagnostico de dichas radiografías y
+Determinar si es que existe algún tipo de fractúralo no, esta desarrollado en python
+Con la ayuda de la librería Tensorflow, matplot, numpy, entre otras, este sistema implementa un modelo convolucional, un modelo Denso y un modelo per-entrenado de la comunidad de Tensorflow hub 
